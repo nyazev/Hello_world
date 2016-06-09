@@ -1,2 +1,3 @@
 # Hello_world
-Test repository
+This is a test version of repository.
+
